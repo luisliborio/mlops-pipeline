@@ -4,6 +4,9 @@
 # 0. extra files
 # ==========================================
 tests.ipynb
+models
+reports
+data
 
 # ==========================================
 # 1. Python and Virtual Environments
