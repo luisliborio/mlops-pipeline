@@ -1,5 +1,7 @@
 [core]
-    remote = dvstore
+    remote = myremote
 ['remote "dvstore"']
     url = s3://MLops1
     endpointurl = https://s3.eu-central-003.backblazeb2.com
+['remote "myremote"']
+    url = gdrive://1hBERMkJkjhFnz309TW979NdjirKV9_Lr
